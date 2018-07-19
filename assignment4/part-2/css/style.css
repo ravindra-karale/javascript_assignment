@@ -1,0 +1,29 @@
+/*.switch{
+  float: left;
+}
+#switchboard{
+  width: 400px;
+  height: 400px;
+  text-align: center;
+  background-color: red;
+}
+#switch-btn{
+  position: center;
+  margin-top: 200px;
+  background-color: yellow;
+  text-align: center;
+}
+#hide-msg{
+  display: none;
+}
+.list-item{
+  padding-left: 20px;
+  display: inline-block;
+  width: 205px;
+}
+li:nth-child(odd) {
+  background: pink;
+}
+li:nth-child(even) {
+  background: gray;
+}*/
